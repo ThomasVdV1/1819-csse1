@@ -6,7 +6,6 @@ namespace Opdracht2
     {
         static void Main(string[] args)
         {
-            
             //Faculteit
 
             Console.WriteLine("Van welk nummer wil je de faculteit berekenen?");
