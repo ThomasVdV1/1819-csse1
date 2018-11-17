@@ -1,0 +1,11 @@
+C:\Users\School\code\gdmgent-1819-csse1\lesweken\lesweek7\obj\Debug\netcoreapp2.1\lesweek7.csprojAssemblyReference.cache
+C:\Users\School\code\gdmgent-1819-csse1\lesweken\lesweek7\obj\Debug\netcoreapp2.1\lesweek7.csproj.CoreCompileInputs.cache
+C:\Users\School\code\gdmgent-1819-csse1\lesweken\lesweek7\obj\Debug\netcoreapp2.1\lesweek7.AssemblyInfoInputs.cache
+C:\Users\School\code\gdmgent-1819-csse1\lesweken\lesweek7\obj\Debug\netcoreapp2.1\lesweek7.AssemblyInfo.cs
+C:\Users\School\code\gdmgent-1819-csse1\lesweken\lesweek7\bin\Debug\netcoreapp2.1\lesweek7.deps.json
+C:\Users\School\code\gdmgent-1819-csse1\lesweken\lesweek7\bin\Debug\netcoreapp2.1\lesweek7.runtimeconfig.json
+C:\Users\School\code\gdmgent-1819-csse1\lesweken\lesweek7\bin\Debug\netcoreapp2.1\lesweek7.runtimeconfig.dev.json
+C:\Users\School\code\gdmgent-1819-csse1\lesweken\lesweek7\bin\Debug\netcoreapp2.1\lesweek7.dll
+C:\Users\School\code\gdmgent-1819-csse1\lesweken\lesweek7\bin\Debug\netcoreapp2.1\lesweek7.pdb
+C:\Users\School\code\gdmgent-1819-csse1\lesweken\lesweek7\obj\Debug\netcoreapp2.1\lesweek7.dll
+C:\Users\School\code\gdmgent-1819-csse1\lesweken\lesweek7\obj\Debug\netcoreapp2.1\lesweek7.pdb
