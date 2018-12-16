@@ -1,0 +1,4 @@
+in een interface: geen public, ...
+EXAMENVRAAG: Kan ik in c# van meerdere classes overerven, nee! Wel: van class & interface
+# = protected
+Een property (public string Campus) maakt "onzichtbaar" een waarde aan (variabele: "Campus")
