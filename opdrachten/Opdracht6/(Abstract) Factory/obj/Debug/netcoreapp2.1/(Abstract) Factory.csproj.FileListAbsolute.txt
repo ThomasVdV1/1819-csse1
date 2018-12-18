@@ -1,0 +1,11 @@
+C:\Users\School\code\gdmgent-1819-csse1\opdrachten\Opdracht6\(Abstract) Factory\obj\Debug\netcoreapp2.1\(Abstract) Factory.csprojAssemblyReference.cache
+C:\Users\School\code\gdmgent-1819-csse1\opdrachten\Opdracht6\(Abstract) Factory\obj\Debug\netcoreapp2.1\(Abstract) Factory.csproj.CoreCompileInputs.cache
+C:\Users\School\code\gdmgent-1819-csse1\opdrachten\Opdracht6\(Abstract) Factory\obj\Debug\netcoreapp2.1\(Abstract) Factory.AssemblyInfoInputs.cache
+C:\Users\School\code\gdmgent-1819-csse1\opdrachten\Opdracht6\(Abstract) Factory\obj\Debug\netcoreapp2.1\(Abstract) Factory.AssemblyInfo.cs
+C:\Users\School\code\gdmgent-1819-csse1\opdrachten\Opdracht6\(Abstract) Factory\bin\Debug\netcoreapp2.1\(Abstract) Factory.deps.json
+C:\Users\School\code\gdmgent-1819-csse1\opdrachten\Opdracht6\(Abstract) Factory\bin\Debug\netcoreapp2.1\(Abstract) Factory.runtimeconfig.json
+C:\Users\School\code\gdmgent-1819-csse1\opdrachten\Opdracht6\(Abstract) Factory\bin\Debug\netcoreapp2.1\(Abstract) Factory.runtimeconfig.dev.json
+C:\Users\School\code\gdmgent-1819-csse1\opdrachten\Opdracht6\(Abstract) Factory\bin\Debug\netcoreapp2.1\(Abstract) Factory.dll
+C:\Users\School\code\gdmgent-1819-csse1\opdrachten\Opdracht6\(Abstract) Factory\bin\Debug\netcoreapp2.1\(Abstract) Factory.pdb
+C:\Users\School\code\gdmgent-1819-csse1\opdrachten\Opdracht6\(Abstract) Factory\obj\Debug\netcoreapp2.1\(Abstract) Factory.dll
+C:\Users\School\code\gdmgent-1819-csse1\opdrachten\Opdracht6\(Abstract) Factory\obj\Debug\netcoreapp2.1\(Abstract) Factory.pdb
