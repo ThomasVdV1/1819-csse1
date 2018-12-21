@@ -681,7 +681,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\School\\.nuget\\packages\\": {},
+    "C:\\Users\\Thomas\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -690,14 +690,14 @@
       "projectUniqueName": "C:\\Users\\School\\code\\gdmgent-1819-csse1\\opdrachten\\Opdracht6\\(Abstract) Factory\\(Abstract) Factory.csproj",
       "projectName": "(Abstract) Factory",
       "projectPath": "C:\\Users\\School\\code\\gdmgent-1819-csse1\\opdrachten\\Opdracht6\\(Abstract) Factory\\(Abstract) Factory.csproj",
-      "packagesPath": "C:\\Users\\School\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\School\\code\\gdmgent-1819-csse1\\opdrachten\\Opdracht6\\(Abstract) Factory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\School\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Thomas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"

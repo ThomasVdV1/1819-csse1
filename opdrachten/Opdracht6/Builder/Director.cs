@@ -4,8 +4,8 @@ namespace Builder
 {
     public class Director
     {
-        public void Construct () {
-            
+        public void MaakKoffie (Koffiemachine koffiemachine) {
+            koffiemachine.AddIngredients();
         }
     }
 }

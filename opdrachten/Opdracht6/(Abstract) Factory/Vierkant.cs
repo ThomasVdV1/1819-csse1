@@ -1,11 +1,11 @@
 using System;
 
 namespace _Abstract__Factory {
-    public class Cirkel : IVorm
+    public class Vierkant : IVorm
     {
         public void Teken()
         {
-            Console.WriteLine("Cirkel");
+            Console.WriteLine("Vierkant");
         }
     }
 }

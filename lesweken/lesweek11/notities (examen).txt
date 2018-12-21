@@ -1,0 +1,101 @@
+(opdracht 6)
+
+deel 1
+
+-CSV
+-XML
+-JSON
+
+verschillen:
+hoeveel plaats het inneemt (XML: het meeste)
+
+deel 3
+
+abstract factory: 'AbstractVorm' ipv 'AbstractFactory'
+product = uitwerking van een cirkel, vierkant, ...
+
+productB schrappen van schema (niet nodig) (abstracte factory)
+enkel de delen gebruiken uit het UML schema die nodig zijn.
+
+op examen: geen eigen implementatie kunnen doen, enkel de UML-schema's kunnen uitwerken
+
+------------
+
+verschillende dataformaten en hierarchische orde
+
+EXAMEN:
+(multiple choice + open vragen) (50%)
+
+voorbeelden gebruik singleton pattern: log-in, database connectie, ...
+
+cursieve class in UML: abstract class
+
+(enkel de abstract factory kennen, niet de factory method pattern)
+
+
+Meerkeuzevragen uit het 1e verslag (BS, zie canvas/gdm.gent)
+
+3.1 kennen
+
+3.2 Programeertalen kennen zie gdm.gent
+webshop, ... (webbedrijven): PHP (Business: Java en C#)
+----> enkel onthouden welke de belangrijkste zijn (die het meest gebruikt worden, niet vanbuiten)
+
+3.3 Fundamenten kennen
+Operatoren, ... vanbuiten kennen!!!
+er gaat een vraag over acces specifiers worden gesteld! (throw, catch, ...)
+
+3.4 (kennen)
+Pattern schema's herkennen EN OEFENEN! (allemaal eens maken)
+1 vraag me de code van een pattern met de vraag: Wat is het pattern? (niet zelf schrijven)
+
+3.5 (hoge prioriteit)
+
+3.6 UML (kennen)
+bepaalde elementen in een UML schema herkennen (properties, velden, methodes, functies (public, protected, private, .......))
+(enkel class diagrams kennen)
+----> op examen: op papier kunnen tekenen
+
+3.7 kennen
+
+...
+
+3.8 documenteren van code: hoe het gebeurt
+XML documentatie vraag op examen (met een voorbeeld?)
+
+3.9 Coding convention kennen
+
+4 frameworks
+metafoor:
+ijsber, boven het water is front end, onder is back end
+
+5.1 kennen
+kan een vraag over conversies zijn
+
+5.2 datastructuren kennen
+'Hoe gaan dingen in een sorted list gesorteerd worden?'
+
+5.3 Open data kennen
+Voorbeeld: temeratuur, boeien in de zee: niveau uitlezen, ...
+---> publiek
+
+5.4 big data
+'Geef een voorbeeld van big data'
+bv: op Zaventem: data van check in, of nummerplaten die gescand worden, social media (als je het kan motiveren is het goed)...
+
+social media: tussen big data en open data
+
+5.5 kennen
+3 belangrijkste onderdelen van databases
+
+Security niet kennen
+
+7 wetgeving kennen
+
+voorbeeld van een SaaS_omgeving: Google Docx, GitHub 
+---> applicatie met inloggen (geen gewone website: geen spelling checker, ook geen youtube converter (te specifiek))
+
+IaaS: enkel host
+PaaS: zelf deploy doen
+SaaS: klaar om te gebruiken (niet meer installeren)
+BaaS: vb: firebase

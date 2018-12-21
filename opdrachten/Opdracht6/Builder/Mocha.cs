@@ -2,10 +2,10 @@ using System;
 
 namespace Builder
 {
-    public class Espresso: Koffie
+    public class Mocha: Koffie
     {
         public override void Test() {
-            Console.WriteLine("Espresso klaar!");
+            Console.WriteLine("Mocha klaar!");
         }
     }
 }
